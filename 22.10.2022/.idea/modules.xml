@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/22.10.2022.iml" filepath="$PROJECT_DIR$/.idea/22.10.2022.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-01/Task-01.iml" filepath="$PROJECT_DIR$/Task-01/Task-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-02/Task-02.iml" filepath="$PROJECT_DIR$/Task-02/Task-02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-03/Task-03.iml" filepath="$PROJECT_DIR$/Task-03/Task-03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-04/Task-04.iml" filepath="$PROJECT_DIR$/Task-04/Task-04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-05/Task-05.iml" filepath="$PROJECT_DIR$/Task-05/Task-05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-06/Task-06.iml" filepath="$PROJECT_DIR$/Task-06/Task-06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task-07/Task-07.iml" filepath="$PROJECT_DIR$/Task-07/Task-07.iml" />
+    </modules>
+  </component>
+</project>
